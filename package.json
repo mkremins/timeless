@@ -1,0 +1,8 @@
+{
+  "name": "timeless",
+  "version": "0.1.0",
+  "description": "pure-JS immutable data structures",
+  "main": "index.js",
+  "author": "Max Kreminski",
+  "license": "MIT"
+}
