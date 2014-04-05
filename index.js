@@ -1,3 +1,4 @@
 module.exports = {
-  seq: require('./lib/seq')
+  seq: require('./lib/seq'),
+  vec: require('./lib/vec')
 };
